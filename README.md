@@ -21,3 +21,7 @@ Part B: Print tom, cat, or tomcat based on number divisibility
 4. README.md
 
 # ✨ Part A: Star Pattern Generator
+
+📝 Script Name
+
+drawStar.sh
