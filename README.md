@@ -50,4 +50,12 @@ type → Pattern type (t1 to t7)
 🔹 t2
 
 #./drawStar.sh 5 t2
+
 <img width="1890" height="194" alt="Screenshot 2026-08-01 020428" src="https://github.com/user-attachments/assets/2b453547-b01a-4aea-aba2-8ea254f3d0e5" />
+
+🔹 t3
+
+./drawStar.sh 5 t3
+
+#<img width="1910" height="227" alt="image" src="https://github.com/user-attachments/assets/937286a1-d11a-4d5a-8458-27b3b31b9090" />
+
