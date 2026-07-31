@@ -24,4 +24,10 @@ Part B: Print tom, cat, or tomcat based on number divisibility
 
 📝 Script Name
 
-drawStar.sh
+ # drawStar.sh
+
+ ▶️ Usage
+
+ #chmod +x drawStar.sh
+ 
+#./drawStar.sh <size> <type>
