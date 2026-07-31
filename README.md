@@ -30,7 +30,7 @@ Part B: Print tom, cat, or tomcat based on number divisibility
 
  #chmod +x drawStar.sh
  
-#./drawStar.sh <size> <type>
+#./drawStar.sh < size > < type >
 
 
 #📥 Arguments
