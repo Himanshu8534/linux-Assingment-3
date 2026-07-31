@@ -12,8 +12,10 @@ Part B: Print tom, cat, or tomcat based on number divisibility
 
 # 📁Project Structure
 
-.
-├── drawStar.sh
-├── printTomcat.sh
-├── screenshots/
-└── README.md
+1. drawStar.sh
+  
+2. printTomcat.sh
+   
+3. screenshots
+   
+4. README.md
