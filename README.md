@@ -19,3 +19,5 @@ Part B: Print tom, cat, or tomcat based on number divisibility
 3. screenshots
    
 4. README.md
+
+# ✨ Part A: Star Pattern Generator
